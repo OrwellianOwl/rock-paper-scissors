@@ -1,0 +1,19 @@
+#gameLayout {
+    background-color: aquamarine;   
+    text-align: center; 
+    display: box;
+    margin: 200px 500px 20px 500px;
+    padding-bottom: 50px;
+}
+
+h1 {    
+    padding-top: 20px;
+}
+
+#result {
+    padding-top: 50px;
+}
+
+#reset {
+    margin-top: 10px;
+}
